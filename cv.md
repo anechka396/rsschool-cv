@@ -21,3 +21,52 @@ AEM developer with 2.5 of hands on experience and 4.5 years overall Java experie
 ## Motivation 
 
 Recently, I have often been asked about the knowledge of some JS frameworks such as Angular and React on job interviwes therefore I decided to increase knowledge in that field.
+
+
+## Education 
+
+### Belarusian State University
+**Faculty of Applied Mathematics and Computer Science**  
+(2013-2017)
+
+
+## Experience
+
+### Axamit
+**AEM Developer** (Aug 2019 - now)
+- Backend development (AEM components, Sling models, services, servlets and etc)
+- Investigating and fixing bugs using AEM
+- Integration with tools for static java code analysis
+- Solr indexing
+
+**Adobe Campaing Developer** (Jul 2019 - Aug 2019) 
+- Using Adobe Campaign for campaign development, customer segmentation and for the automation of customer journeys
+- Load Adobe Campaigns from CRM systems
+- Create queries to extract & validate campaign data using SQL
+
+### Epam Systems
+**AEM Developer** (Jun 2017 - Jul 2019)  
+- Backend development (AEM components, Sling models, services, servlets and etc)
+- Migration from CQ 5.6.1 to AEM 6.1
+- Migration from AEM 6.1 to AEM 6.3
+- MSM support (live copies, custom rollouts, i18n, deep properties inheritance)
+- Targeting implementation via ContextHub
+- Creating search indexes
+- Ongoing site support
+- Investigating and fixing bugs using AEM
+- Integration with tools for static java code analysis
+- Work with project documentation
+- Providing demo for customers
+- Mentoring AEM newcomers
+
+**Student of Epam Java Laboratory** (Aug 2016 - Dec 2016)
+- Developing Java EE applications with layered architecture
+- Development applications using Java Spring Framework
+- Adding Spring Security support on the site
+- Writing DBUnit and JUnit test. Using TDD paradigm
+- Using JDBC, Hebirnate, EclipseLink for implementation of the DAO layer
+- Configuration of Jenkins pipelines
+- Implementing of the Responsive Design for the site
+- Integration with Cloudinary for asset management
+
+
