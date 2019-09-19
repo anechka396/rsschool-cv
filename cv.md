@@ -70,3 +70,38 @@ Recently, I have often been asked about the knowledge of some JS frameworks such
 - Integration with Cloudinary for asset management
 
 
+## Code Example
+
+```javascript
+var s = "JavaScript code example";
+alert(s);
+```
+
+
+## Skills 
+
+- Java SE
+- Java EE
+- Adobe Experience Manager
+- Adobe Analytics 
+- Adobe Campaign 
+- Javascript
+- Html5, CSS3
+- PL/SQL
+- Git
+- Maven
+- English (B2) 
+
+
+## English 
+
+- **Epam Java Lab.** English for RD (A2/A2+)  
+Sep 2016 - Dec 2016
+- **Epam.** Businesses English (A2/A2+)  
+Sep 2017 - June 2018
+- **Epam.** Business English (A2+/B1)  
+Sep 2018 - June 2019
+- **Inlingua Malta.** General English (B2)  
+Oct 2018
+- **Streamline.** General English (B2)  
+Sep 2019 - now
