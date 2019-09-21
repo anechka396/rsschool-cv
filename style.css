@@ -17,7 +17,7 @@ body {
 header {
   grid-area: header;
   padding: 20px 20px 0px 0px;
-  text-align: center;
+  font-family: "Abril Fatface", serif;
 }
 
 aside {
@@ -49,11 +49,13 @@ hr {
   margin: 10px 0px;
   text-align: center;
   font-size: 20px;
+  font-family: "Abril Fatface", serif;
 }
 
 .cv-main-section__title {
   margin: 10px 0px;
   font-size: 25px;
+  font-family: "Abril Fatface", serif;
 }
 
 .cv-contacts-list__icon {
